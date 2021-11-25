@@ -15,7 +15,8 @@
         public function __construct($Id,$nom,$prenom,$numTel,$email,$adresse,$spec) {
           
             $this->spec = $spec;
-   }}
+   }
+}
    
 
    $doc = new Doc(1,"mohamed","salah",0102030405,"doc@doc.com","France","genral") ;

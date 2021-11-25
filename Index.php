@@ -11,21 +11,18 @@
         echo "<br><br>";
     ?>
 
-        
-
-
         <h2>Bienvenus sur le site "Prise de RDV pour Docteurs" !!</h2>
         <br>
         
 
         <h3> Se connecter : </h3>
 
-        <form action="http://localhost/ProjetRDV/LogIn.php">
+        <form action="http://localhost/ProjetRDV/ProjetRDVDoc/LogIn.php">
          <button type="submit">Connectez-vous </button>
       </form>
             <br><br><br>
             <h3> S'inscrire : </h3>
-      <form action = "http://localhost/ProjetRDV/Inscription.php">
+      <form action = "http://localhost/ProjetRDV/ProjetRDVDoc/Inscription.php">
           <button type="submit"> Inscrivez-vous </button>
       </form>
         
